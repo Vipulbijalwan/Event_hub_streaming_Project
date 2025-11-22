@@ -1,5 +1,3 @@
-# Event_hub_streaming_Project
-
 # Azure Event Hub Streaming Project
 
 ## 📌 Overview

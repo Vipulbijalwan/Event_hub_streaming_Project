@@ -14,5 +14,3 @@ Genarate Fake Data Using Python → Event Hub → Stream Analytics → DataLake 
 - Stream Analytics
 - Python 
 
-
-## ▶️ Run Instructions
